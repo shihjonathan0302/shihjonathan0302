@@ -26,6 +26,3 @@ in the music-tech industry and how analytics shapes music discovery and consumpt
 **Data & Analytics:** Python (pandas, scikit-learn) · SQL · R · Tableau · Alteryx  
 **Development:** JavaScript · React Native · Swift
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/jonathan-shih-3011a6314/)
