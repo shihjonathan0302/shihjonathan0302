@@ -3,8 +3,7 @@
 Incoming M.S. student in **Applied Analytics at Columbia University** (Fall 2026), 
 concentrating in Emerging Technologies.
 
-My focus is applying data and AI to consumer products — with a long-term interest 
-in the music-tech industry and how analytics shapes music discovery and consumption.
+My focus is applying data and AI to consumer products
 
 **Background**
 - B.S. in Technology Applications & Business Administration — National Taiwan Normal University
